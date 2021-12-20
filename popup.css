@@ -1,0 +1,16 @@
+#output{
+    width:200px;
+    font-size: 200%;
+    font-weight:bold;
+}
+
+#input-form, textarea, select {
+    width:200px;
+    margin-left:auto;
+    margin-right:auto;
+   
+}
+
+body{
+    width:200px;
+}
